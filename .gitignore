@@ -1,0 +1,2 @@
+# terraform のプラグインは無視する
+/.terraform/
